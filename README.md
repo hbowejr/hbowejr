@@ -108,7 +108,7 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
       <img src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width="40" height="40"/>
+        <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://salesforce.com/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/330px-Salesforce.com_logo.svg.png" alt="Flask" width="40" height="40"/>
