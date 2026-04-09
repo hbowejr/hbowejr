@@ -169,6 +169,7 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
   
 <p align="center">
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)  <img src="http://github-readme-streak-stats.herokuapp.com?user=hbowejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbowejr](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=tokyonight" alt="Github Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbowejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
 </p>
 
