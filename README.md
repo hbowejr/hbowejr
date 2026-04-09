@@ -21,14 +21,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!-- About Me -->
 ```yaml
 name: Henry Bowe
-age: 27
 living_in: North Carolina
 from: Washington, D.C.
-job: Educational Impacts and Data Analyst
 education: ["Bachelor's in Computer Science"]
-company: Hack the Hood
 fields_of_interests: ["Sports Analytics", "Sports Statistics", "Data Science", "Data Engineering", "Machine & Deep Learning", "Artificial Intelligence", "Big Data Analytics"]
-currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
 ```
 <hr>
@@ -37,15 +33,13 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 ### Work Experience
 <br/>
 
-(https://www.hackthehood.org/)
-
 **Educational Impacts and Data Analyst** \
-[**HtH**](https://www.hackthehood.org/) • Full-Time \
+[**Hack the Hood**](https://www.hackthehood.org/) • Full-Time \
 Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jupyter Notebook`, `SQL`, `Pandas`, `Salesforce` \
 <br/>
 
 **Lead Technical Instructor / Curriculum Designer** \
-[**HtH**](https://www.hackthehood.org/) • Full-Time \
+[**Hack the Hood**](https://www.hackthehood.org/) • Full-Time \
 Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jupyter Notebook`, `SQL` \
 <br/>
 
