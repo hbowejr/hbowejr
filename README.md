@@ -37,7 +37,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 ### Work Experience
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="HtH" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1454959243/fvcgythecsqtqdgnoqfn.jpg"/>](https://www.hackthehood.org/)
+<img align="left" height="94px" width="94px" alt="HtH" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1454959243/fvcgythecsqtqdgnoqfn.jpg"/>(https://www.hackthehood.org/)
 
 **Educational Impacts and Data Analyst** \
 [**HtH**](https://www.hackthehood.org/) • Full-Time \
