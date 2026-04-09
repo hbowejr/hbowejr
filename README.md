@@ -109,7 +109,10 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
         <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://salesforce.com/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/330px-Salesforce.com_logo.svg.png" alt="Flask" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- Funny GIF -->
