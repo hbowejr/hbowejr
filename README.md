@@ -168,7 +168,7 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
 <h3 align="center"> Github Statistics </h3>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbowejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hbowejr)](https://github.com/anuraghazra/github-readme-stats)
   <img src="http://github-readme-streak-stats.herokuapp.com?user=hbowejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbowejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
 </p>
